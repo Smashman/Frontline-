@@ -1,0 +1,35 @@
+BLU logo: {"frame":{"x":58,"y":36,"w":42,"h":26}},
+Red logo: {"frame":{"x":12,"y":28,"w":40,"h":37}},
+4 Square Ship Side View: {"frame":{"x":15,"y":76,"w":97,"h":33}},
+3 Square Ship Side View: {"frame":{"x":30,"y":114,"w":73,"h":15}},
+2 Square Ship Side View: {"frame":{"x":42,"y":133,"w":49,"h":19}},
+1 Square Ship Side View: {"frame":{"x":53,"y":159,"w":25,"h":13}},
+Ship display Box: {"frame":{"x":7,"y":68,"w":123,"h":116}},
+Steam Sign In: {"frame":{"x":58,"y":186,"w":72,"h":26}},
+Victory!: {"frame":{"x":73,"y":18,"w":28,"h":5}},
+You Lose.: {"frame":{"x":112,"y":18,"w":31,"h":5}},
+Grid: {"frame":{"x":139,"y":37,"w":248,"h":248}},
+4 Square Ship Top View: {"frame":{"x":398,"y":44,"w":95,"h":23}},
+3 Square Ship Top View: {"frame":{"x":393,"y":71,"w":71,"h":17}},
+2 Square Ship Top View: {"frame":{"x":393,"y":97,"w":47,"h":13}},
+1 Square Ship Top View: {"frame":{"x":396,"y":121,"w":23,"h":12}},
+Crit!: {"frame":{"x":448,"y":100,"w":15,"h":5}},
+Explosion Large: {"frame":{"x":396,"y":144,"w":22,"h":20}},
+Explosion  Small: {"frame":{"x":427,"y":148,"w":11,"h":12}},
+Miss: {"frame":{"x":399,"y":166,"w":23,"h":23}},
+Aim: {"frame":{"x":423,"y":166,"w":23,"h":23}},
+4 Square Ship Destroyed: {"frame":{"x":387,"y":194,"w":95,"h":19}},
+3 Square Ship Destroyed: {"frame":{"x":391,"y":219,"w":71,"h":17}},
+2 Square Ship Destroyed: {"frame":{"x":396,"y":245,"w":47,"h":13}},
+1 Square Ship Destroyed: {"frame":{"x":394,"y":269,"w":23,"h":12}},
+
+tugboat is the one square
+
+[11:04]  
+cargo ship is 3 square
+
+[11:04]  
+cruiser is 2
+
+[11:04]  
+4 is battleship

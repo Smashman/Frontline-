@@ -1,0 +1,24 @@
+BLU logo: 58, 36, 42, 26
+Red logo: 12,28,40,37
+4 Square Ship Side View: 15,76,97,33
+3 Square Ship Side View: 30,114,73,15
+2 Square Ship Side View: 42,133,49,19
+1 Square Ship Side View: 53,159,25,13
+Ship display Box: 7,68,123,116
+Steam Sign In: 58,186,72,26
+Victory!: 73,18,28,5
+You Lose.: 112,18,31,5
+Grid: 139,37,248,248
+4 Square Ship Top View: 398,44,95,23
+3 Square Ship Top View: 393,71,71,17
+2 Square Ship Top View: 393,97,47,13
+1 Square Ship Top View: 396,121,23,12
+Crit!:448,100,15,5
+Explosion Large: 396,144,22,20
+Explosion  Small: 427,148,11,12
+Miss: 399,166,23,23
+Aim: 423,166,23,23
+4 Square Ship Destroyed: 387,194,95,19
+3 Square Ship Destroyed: 391,219,71,17
+2 Square Ship Destroyed: 396,245,47,13
+1 Square Ship Destroyed: 394,269,23,12
