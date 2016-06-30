@@ -1,0 +1,10 @@
+TF logo: X: 510, Y: 55
+pack: X: 1005, Y: 3477
+dl1: X: 482, Y: 4263
+dl2: X: 456, Y: 4334
+collection: X: 467, Y: 4405
+steam: X: 477, Y: 6292
+tf2m: X: 617, Y: 6292
+facepunch: X: 776, Y: 6292
+polycount: X: 959, Y: 6292
+battleship: X: 1201, Y: 9024
