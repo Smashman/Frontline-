@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	color: #e4dbf0;
+	color: #e5e5e5;
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 	background-color: #0E0C0C;
@@ -9,11 +9,10 @@ body {
 }
 a {
 	font-weight: bold;
-	color: #e4dbf0;
-	text-decoration: none;
+	color: #e5e5e5;
 }
 a:hover {
-	color: red;
+	color: #f2f2f2;
 }
 .emph {
 	font-weight: bold;
@@ -44,10 +43,17 @@ a:hover {
 }
 .button {
 	position: absolute;
-	background-position: top;
+	background-position: bottom;
 }
 .button:hover {
-	background-position: bottom;
+	background-position: top;
+}
+.video {
+    width: 855px;
+    height: 480px;
+    left: 19px;
+    top: 423px;
+    position: absolute;
 }
 
 /* Content images */
@@ -99,6 +105,7 @@ a:hover {
     margin: 0;
 }
 #join {
+	color: #2f2c2b;
     margin: 0;
     top: 151px;
     left: 59px;
@@ -141,4 +148,76 @@ a:hover {
 
 body {
 	background: url(../images/webpage_wip_17.png) top center no-repeat #0E0C0C;
+}
+
+/* Buttons */
+
+#tf {
+	background-image: url(../images/fl_webpage_final_button_tf.jpg);
+	width: 228px;
+	height: 64px;
+	left: 155px;
+	top: 55px;
+}
+#pack {
+	background-image: url(../images/fl_webpage_final_button_pack.jpg);
+	width:275px;
+	height: 275px;
+	left: 650px;
+	top: 1117px;
+}
+#dl1 {
+	background-image: url(../images/fl_webpage_final_button_dl1.jpg);
+	width: 637px;
+	height: 64px;
+	left: 127px;
+	top: 463px;
+}
+#dl2 {
+	background-image: url(../images/fl_webpage_final_button_dl2.jpg);
+	width: 704px;
+	height: 64px;
+	left: 101px;
+	top: 534px;
+}
+#collection {
+	background-image: url(../images/fl_webpage_final_button_collection.jpg);
+	width: 672px;
+	height: 64px;
+	left: 112px;
+	top: 605px;
+}
+#steam {
+	background-image: url(../images/fl_webpage_final_button_steam.jpg);
+	width: 128px;
+	height: 42px;
+	left: 122px;
+	top: 922px;
+}
+#tf2m {
+	background-image: url(../images/fl_webpage_final_button_tf2m.jpg);
+	width: 140px;
+	height: 42px;
+	left: 262px;
+	top: 922px;
+}
+#facepunch {
+	background-image: url(../images/fl_webpage_final_button_facepunch.jpg);
+	width: 162px;
+	height: 42px;
+	left: 421px;
+	top: 922px;
+}
+#polycount {
+	background-image: url(../images/fl_webpage_final_button_polycount.jpg);
+	width: 162px;
+	height: 42px;
+	left: 604px;
+	top: 922px;
+}
+#battleship {
+	background-image: url(../images/fl_webpage_final_button_battleship.jpg);
+	width: 220px;
+	height: 184px;
+	top: 1004px;
 }
