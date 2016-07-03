@@ -6,6 +6,7 @@ body {
 	font-size: 16px;
 	background-color: #0E0C0C;
 	line-height: 16px;
+	min-width: 890px;
 }
 a {
 	font-weight: bold;
@@ -26,6 +27,9 @@ a:hover {
 }
 .container, .content {
 	background: top center no-repeat;/* #0E0C0C;*/
+}
+.container {
+	overflow-x: hidden;
 }
 .content {
 	width: 890px;
@@ -144,12 +148,6 @@ a:hover {
     line-height: 18px;
 }
 
-/* Dev - REMOVE BEFORE LIVE */
-
-body {
-	background: url(../images/webpage_wip_17.png) top center no-repeat #0E0C0C;
-}
-
 /* Buttons */
 
 #tf {
@@ -219,5 +217,6 @@ body {
 	background-image: url(../images/fl_webpage_final_button_battleship.jpg);
 	width: 220px;
 	height: 184px;
-	top: 1004px;
+	top: 944px;
+    right: -176px;
 }
