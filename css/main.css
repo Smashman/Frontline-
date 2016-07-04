@@ -59,6 +59,18 @@ a:hover {
     top: 423px;
     position: absolute;
 }
+#legal {
+	position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 30px;
+    width: 888px;
+    height: 30px;
+    display: block;
+    background-image: url("../images/legal.png");
+}
 
 /* Content images */
 
@@ -93,7 +105,7 @@ a:hover {
 }
 
 #container_7, #content_7 {
-	height: 1620px;
+	height: 1710px;
 	background-image: url(../images/fl_webpage_main_bg7.jpg);
 }
 
