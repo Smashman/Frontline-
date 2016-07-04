@@ -270,6 +270,11 @@ a:hover {
     float: none;
     display: inline-block;
 }
+.steam:nth-last-child(2):first-child {
+	margin-left: auto;
+    float: none;
+    display: inline-block;
+}
 .iconholder {
     background: #b77c0a;
     height: 40px;
