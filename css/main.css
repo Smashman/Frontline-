@@ -232,3 +232,91 @@ a:hover {
 	top: 944px;
     right: -176px;
 }
+
+/* Credits */
+
+#credits {
+    position: absolute;
+    top: 295px;
+    width: 776px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+#credits > .row {
+	width: inherit;
+    height: 56px;
+    margin-bottom: 4px;
+    position: relative;
+    float: left;
+}
+.steam {
+	position: relative;
+    float: left;
+    margin-right: 4px;
+    padding: 4px;
+    border-radius: 6px;
+    text-align: left;
+    width: 248px;
+    height: 48px;
+}
+.steam:hover {
+	background: rgba(183,124,10,0.15);
+    /*background: rgba(0,0,0,0.2);*/
+}
+.row:first-child .steam:nth-child(2):hover {
+	background: rgba(0,0,0,0.2);
+}
+.row:nth-child(2) .steam:nth-child(odd):hover {
+	background: rgba(0,0,0,0.2);
+}
+.steam:last-child {
+    margin: 0 auto;
+    float: none;
+    display: inline-block;
+}
+.iconholder {
+    background: #b77c0a;
+    height: 40px;
+    width: 40px;
+    padding: 4px;
+    float: left;
+    border-radius: 3px;
+}
+.iconholder > img {
+	width: 40px;
+	height: 40px;
+}
+.name {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 58px);
+    color: #b77c0a;
+    padding-left: 10px;
+    line-height: 24px;
+    width: 190px;
+    font-size: 18px;
+    position: relative;
+    float: left;
+    overflow: hidden;
+    font-weight: bold;
+}
+.name.no_role {
+    line-height: 72px;
+}
+.role {
+    position: relative;
+    float: left;
+    line-height: 24px;
+    max-width: 190px;
+    max-height: 24px;
+    padding-left: 10px;
+    font-size: 12px;
+    overflow: hidden;
+    color: lightgoldenrodyellow;
+}
+.role.long {
+    line-height: 12px;
+}
