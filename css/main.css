@@ -264,13 +264,6 @@ a:hover {
 }
 .steam:hover {
 	background: rgba(183,124,10,0.15);
-    /*background: rgba(0,0,0,0.2);*/
-}
-.row:first-child .steam:nth-child(2):hover {
-	background: rgba(0,0,0,0.2);
-}
-.row:nth-child(2) .steam:nth-child(odd):hover {
-	background: rgba(0,0,0,0.2);
 }
 .steam:last-child {
     margin: 0 auto;
