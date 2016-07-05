@@ -2,6 +2,7 @@
 <head>
 <title>Frontline!</title>
 <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+<meta charset="UTF-8">
 </head>
 <body>
 	<div class="container" id="container_1">
@@ -118,7 +119,7 @@
 						['id' => 53439593,  'role' => 'Models'],
 						['id' => 81714101,  'role' => 'Models'],
 						['id' => 682865,    'role' => 'Maps, Asset Tester'],
-						['id' => 64725899,  'role' => 'Co-founder, Concept Art,Textures'],
+						['id' => 64725899,  'role' => 'Co-founder, Concept Art, Textures'],
 						['id' => 70249640,  'role' => 'Models'],
 						['id' => 52545835,  'role' => 'SFM Animation'],
 						['id' => 61834503,  'role' => 'Sound / Music'],
