@@ -291,7 +291,7 @@ a:hover {
     white-space: nowrap;
     text-overflow: ellipsis;
     max-width: calc(100% - 58px);
-    color: #b77c0a;
+    color: #fbce6a;
     padding-left: 10px;
     line-height: 24px;
     width: 190px;
@@ -300,9 +300,6 @@ a:hover {
     float: left;
     overflow: hidden;
     font-weight: bold;
-}
-.name.no_role {
-    line-height: 72px;
 }
 .role {
     position: relative;
@@ -313,7 +310,7 @@ a:hover {
     padding-left: 10px;
     font-size: 12px;
     overflow: hidden;
-    color: lightgoldenrodyellow;
+    color: #b77c0a;
 }
 .role.long {
     line-height: 12px;
