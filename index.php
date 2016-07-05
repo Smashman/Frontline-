@@ -102,68 +102,38 @@
 	<div class="container" id="container_7">
 		<div class="content" id="content_7">
 			<div id="credits">
-				<div class="row">
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role long">Textures, Concept Art, Web Assets</div>
-					</a>
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-				</div>
-				<div class="row">
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-				</div>
-				<div class="row">
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-				</div>
-				<div class="row">
-					<a class="steam" href="http://steamcommunity.com/id/smashman2004/" target="_blank">
-						<div class="iconholder">
-							<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d1f164e73126a2aa4b9735a8e599c1f3c6f9785_medium.jpg">
-						</div>
-						<div class="name">smash.mn</div><div class="role">Web Developer</div>
-					</a>
-				</div>
+				<?php
+					include 'php/credits.php';
+					$users = [
+						['id' => 39933033,  'role' => 'Web Developer'],
+						['id' => 12215355,  'role' => 'Models'],
+						['id' => 87171847,  'role' => 'Models, Textures, SFM Lighting'],
+						['id' => 11840527,  'role' => 'Models, Textures, SFM Rendering, Logo Design'],
+						['id' => 40757511,  'role' => 'SFM Animation'],
+						['id' => 59090930,  'role' => 'Models'],
+						['id' => 22411235,  'role' => 'Models'],
+						['id' => 33885066,  'role' => 'Textures, Concept Art, Web Assets'],
+						['id' => 87084440,  'role' => 'Textures, Concept Art, Web Assets'],
+						['id' => 40107635,  'role' => 'Models, Animations'],
+						['id' => 53439593,  'role' => 'Models'],
+						['id' => 81714101,  'role' => 'Models'],
+						['id' => 682865,    'role' => 'Maps, Asset Tester'],
+						['id' => 64725899,  'role' => 'Co-founder, Concept Art,Textures'],
+						['id' => 70249640,  'role' => 'Models'],
+						['id' => 52545835,  'role' => 'SFM Animation'],
+						['id' => 61834503,  'role' => 'Sound / Music'],
+						['id' => 27876160,  'role' => 'Concept Art, Textures'],
+						['id' => 61214000,  'role' => 'Particles'],
+						['id' => 107699134, 'role' => 'Models, Textures'],
+						['id' => 8429684,   'role' => 'Sound / Music'],
+						['id' => 10043612,  'role' => 'Music'],
+						['id' => 43842530,  'role' => 'Typography Advisor'],
+						['id' => 15847966,  'role' => 'Co-founder'],
+						['id' => 39436472,  'role' => 'Models'],
+						['id' => 100668404, 'role' => 'Models'],
+					];
+					echo output_credits($users);
+				?>
 			</div>
 			<a href="battleship.html" class="button" id="battleship"></a>
 			<a href="http://www.valvesoftware.com/" id="legal" target="_blank"></a>
