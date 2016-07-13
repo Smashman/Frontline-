@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>Frontline!</title>
+<link rel="stylesheet" type="text/css" media="screen" href="css/common.css">
 <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
 <meta charset="UTF-8">
 </head>
@@ -17,7 +18,7 @@
 				<br/><br/>
 				<span class="emph">Frontline!</span> is a community-created war effort that aims to rally the troops of the TF2 contributing community and show everyone what they're capable of. Whatever art of war you partake in, we want you to join. Now slap on your helmet and grab your rifle, as we invite you into the midst of all-out war!
 			</div>
-			<iframe class="video" src="http://www.youtube.com/embed/dQw4w9WgXcQ?showinfo=0&amp;vq=hd720&amp;rel=0&amp;autohide=1" frameborder="0" allowfullscreen=""></iframe>
+			<iframe class="video" src="http://www.youtube.com/embed/vCFVlVJWBak?showinfo=0&amp;vq=hd720&amp;rel=0&amp;autohide=1" frameborder="0" allowfullscreen=""></iframe>
 		</div>
 	</div>
 	<div class="container" id="container_3">
@@ -27,7 +28,7 @@
 				<br/><br/>
 				From AA Guns to Zeppelins, we've got everything you need to win a war!
 			</div>
-			<a href="#" class="button" id="pack" target="_blank"></a>
+			<a href="pack.html" class="button" id="pack"></a>
 		</div>
 	</div>
 	<div class="container" id="container_4">
@@ -107,20 +108,20 @@
 					include 'php/credits.php';
 					$users = [
 						['id' => 39933033,  'role' => 'Web Developer'],
-						['id' => 12215355,  'role' => 'Models'],
+						['id' => 12215355,  'role' => 'Models, Textures'],
 						['id' => 87171847,  'role' => 'Models, Textures, SFM Lighting'],
 						['id' => 11840527,  'role' => 'Models, Textures, SFM Rendering, Logo Design'],
 						['id' => 40757511,  'role' => 'SFM Animation'],
-						['id' => 59090930,  'role' => 'Models'],
-						['id' => 22411235,  'role' => 'Models'],
+						['id' => 59090930,  'role' => 'Models, Textures'],
+						['id' => 22411235,  'role' => 'Models, Textures'],
 						['id' => 33885066,  'role' => 'Textures, Concept Art, Web Assets'],
 						['id' => 87084440,  'role' => 'Textures, Concept Art, Web Assets'],
-						['id' => 40107635,  'role' => 'Models, Animations'],
-						['id' => 53439593,  'role' => 'Models'],
-						['id' => 81714101,  'role' => 'Models'],
+						['id' => 40107635,  'role' => 'Models, Textures, Animations'],
+						['id' => 53439593,  'role' => 'Models, Textures'],
+						['id' => 81714101,  'role' => 'Models, Textures'],
 						['id' => 682865,    'role' => 'Maps, Asset Tester'],
 						['id' => 64725899,  'role' => 'Co-founder, Concept Art, Textures'],
-						['id' => 70249640,  'role' => 'Models'],
+						['id' => 70249640,  'role' => 'Models, Textures'],
 						['id' => 52545835,  'role' => 'SFM Animation'],
 						['id' => 61834503,  'role' => 'Sound / Music'],
 						['id' => 27876160,  'role' => 'Concept Art, Textures'],
@@ -130,14 +131,14 @@
 						['id' => 10043612,  'role' => 'Music'],
 						['id' => 43842530,  'role' => 'Typography Advisor'],
 						['id' => 15847966,  'role' => 'Co-founder'],
-						['id' => 39436472,  'role' => 'Models'],
-						['id' => 100668404, 'role' => 'Models'],
+						['id' => 39436472,  'role' => 'Models, Textures'],
+						['id' => 100668404, 'role' => 'Models, Textures'],
 					];
 					echo output_credits($users);
 				?>
 			</div>
 			<a href="battleship.html" class="button" id="battleship"></a>
-			<a href="http://www.valvesoftware.com/" id="legal" target="_blank"></a>
+			<a href="//www.valvesoftware.com/" id="legal" target="_blank"></a>
 		</div>
 	</div>
 </body>

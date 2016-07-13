@@ -1,0 +1,110 @@
+body {
+	color: #2f2c2b;
+}
+
+/* Content images */
+
+#container_1, #content_1 {
+	height: 512px;
+	background-image: url(../images/fl_webpage_assets_bg1.jpg);
+}
+
+#container_2, #content_2 {
+	height: 1245px;
+	background-image: url(../images/fl_webpage_assets_bg2.jpg);
+}
+
+#container_3, #content_3 {
+	height: 1274px;
+	background-image: url(../images/fl_webpage_assets_bg3.jpg);
+}
+
+#container_4, #content_4 {
+	height: 1219px;
+	background-image: url(../images/fl_webpage_assets_bg4.jpg);
+}
+
+#container_5, #content_5 {
+	height: 1250px;
+	background-image: url(../images/fl_webpage_assets_bg5.jpg);
+}
+
+#container_6, #content_6 {
+	height: 1150px;
+	background-image: url(../images/fl_webpage_assets_bg6.jpg);
+}
+
+#container_7, #content_7 {
+	height: 972px;
+	background-image: url(../images/fl_webpage_assets_bg7.jpg);
+}
+
+/* Buttons */
+
+#download {
+	background-image: url(../images/fl_webpage_assets_button_dl.jpg);
+	width: 540px;
+	height: 80px;
+	left: 175px;
+	top: 423px;
+}
+
+/* Models and Particles */
+
+.list {
+	position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 760px;
+    top: 8px;
+}
+#models_1 {
+	top: 70px;
+}
+#models_3 {
+	
+}
+.asset {
+	width: 375px;
+	height: 75px;
+    margin-bottom: 16px;
+    float: left;
+}
+.asset:nth-child(odd) {
+	margin-right:10px;
+}
+.asset:nth-last-child(1), .asset:nth-last-child(2) {
+	margin-bottom: 0;
+}
+.imgholder {
+	box-sizing: border-box;
+	width: 75px;
+	height: 75px;
+	background: rgba(0,0,0,0.5);
+	float: left;
+	margin-right: 8px;
+	padding: 5px;
+}
+.imgholder > img {
+	width: 100%;
+}
+.asset > .info {
+	float: left;
+	width: 287px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.name, .vari {
+	white-space: nowrap;
+}
+.name {
+	font-weight: bold;
+}
+.desc {
+    height: 48px;
+}
+.vari {
+	font-size: 12px;
+    font-style: italic;
+}
