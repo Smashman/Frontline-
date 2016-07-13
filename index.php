@@ -42,9 +42,9 @@
 				<br/><br/>
 				That's right, <span class="italic">this war ain't over yet</span>.
 			</div>
-			<a href="#" class="button" id="dl1" target="_blank"></a>
-			<a href="#" class="button" id="dl2" target="_blank"></a>
-			<a href="#" class="button" id="collection" target="_blank"></a>
+			<a href="#" class="button" id="dl1"></a>
+			<a href="#" class="button" id="dl2"></a>
+			<a href="//steamcommunity.com/workshop/browse/?appid=440" class="button" id="collection" target="_blank"></a>
 		</div>
 	</div>
 	<div class="container" id="container_5">
@@ -52,16 +52,16 @@
 			<div class="text" id="map">
 				Over recent months, our resident mapper, Harlen "UEAKCrash" Linke, has been working undercover on his very own military operation, and we're now lifting the veil to reveal the in-development Payload map <span class="emph">Shoreleave</span>!
 				<br/><br/>
-				Previously developed under the working title of Prep Up, Shoreleave is currently only in its alpha stage, and there is plenty of work still to be done! You can follow the development of Crash's map <a href="#">here</a> and see his take on the theme and how he has put our map pack to use - which we hope will inspire you to work on your very own <span class="emph">Frontline!</span> map!
+				Previously developed under the working title of Prep Up, Shoreleave is currently only in its alpha stage, and there is plenty of work still to be done! You can follow the development of Crash's map <a href="//www.youtube.com/user/UEAKCrash" target="_blank">here</a> and see his take on the theme and how he has put our map pack to use - which we hope will inspire you to work on your very own <span class="emph">Frontline!</span> map!
 				<br/><br/>
 				From new blood to Workshop veterans, we are all very excited to see what new and exciting territory the contributing community can explore with our assets and the theme of this project!
 				<br/><br/>
 				<span class="italic">We'll see you on the <span class="emph">Frontline!</span></span>
 			</div>
-			<a href="#" class="button" id="steam" target="_blank"></a>
-			<a href="#" class="button" id="tf2m" target="_blank"></a>
-			<a href="#" class="button" id="facepunch" target="_blank"></a>
-			<a href="#" class="button" id="polycount" target="_blank"></a>
+			<a href="//steamcommunity.com/workshop/browse/?appid=440" class="button" id="steam" target="_blank"></a>
+			<a href="//tf2maps.net/forums/" class="button" id="tf2m" target="_blank"></a>
+			<a href="//facepunch.com/forumdisplay.php?f=277" class="button" id="facepunch" target="_blank"></a>
+			<a href="//polycount.com/categories/team-fortress-2" class="button" id="polycount" target="_blank"></a>
 		</div>
 	</div>
 	<div class="container" id="container_6">
@@ -74,13 +74,13 @@
 				<div class="answer">A. Ultimately, Valve decides what is added to their game, so who are we to judge? That being said, if you can upload it to the Steam Workshop, we can add it to our Collection. That includes <span class="bold">cosmetic items</span>, <span class="bold">weapons</span>, <span class="bold">taunts</span>, <span class="bold">unusual effects</span>, and <span class="bold">maps</span>. We fully understand how much time it takes for some of those, but we fully encourage you to pursue whatever you'd like!</div>
 
 				<div class="question">Q. What <span class="italic">can't</span> I submit to the project?</div>
-				<div class="answer">A. Despite the wartime theming, we highly discourage any content based on or influenced by racist or xenophobic imagery. Have some respect, and use your best judgment - any submissions that have these problems will be excluded from the collection and distanced from the project. If in doubt, refer to Valve's own <a href="#">guidelines</a> for TF2 Content Creation.</div>
+				<div class="answer">A. Despite the wartime theming, we highly discourage any content based on or influenced by racist or xenophobic imagery. Have some respect, and use your best judgment - any submissions that have these problems will be excluded from the collection and distanced from the project. If in doubt, refer to Valve's own <a href="//www.teamfortress.com/workshop/" target="_blank">guidelines</a> for TF2 Content Creation.</div>
 
 				<div class="question">Q. If I submit my work, how will it be determined whether or not it will be included in the game?</div>
 				<div class="answer">A. While, we are the ones that add your submission to the Workshop Collection, <span class="bold">we do not choose what items are added in-game</span>, if any! That decision is to be made by <span class="bold">Valve</span>, and Valve alone. Because of this, <span class="emph">Frontline!</span> is an equal-opportunity effort, and will stay as such, no matter what!</div>
 
 				<div class="question">Q. I'm new to content creation, but I want to take part! How can I learn?</div>
-				<div class="answer">A. There are plenty of resources for beginners out there, and we welcome and encourage any new talent! A handy collection of resources can be found <a href="#">here</a>, and if you have any other content creation questions, you can always ask around the community - for the <span class="italic">most</span> part, we don't bite!</div>
+				<div class="answer">A. There are plenty of resources for beginners out there, and we welcome and encourage any new talent! A handy collection of resources can be found <a href="//www.kritzkast.com/tf2_mod_guide" target="_blank">here</a>, and if you have any other content creation questions, you can always ask around the community - for the <span class="italic">most</span> part, we don't bite!</div>
 
 				<div class="question">Q. How long has <span class="emph">Frontline!</span> been in development?</div>
 				<div class="answer">A. The earliest work is from January 2015, with strong proper work starting in the following September, and we've been hard at work ever since! Though it's been a long process, and several iterations of various assets have gone by, our intentions have <span class="italic">always</span> been the same - to make a community update for the community, by the community, that is open to everyone.</div>
@@ -119,7 +119,7 @@
 						['id' => 40107635,  'role' => 'Models, Textures, Animations'],
 						['id' => 53439593,  'role' => 'Models, Textures'],
 						['id' => 81714101,  'role' => 'Models, Textures'],
-						['id' => 682865,    'role' => 'Maps, Asset Tester'],
+						['id' => 682865,    'role' => 'Maps, Asset Advisor'],
 						['id' => 64725899,  'role' => 'Co-founder, Concept Art, Textures'],
 						['id' => 70249640,  'role' => 'Models, Textures'],
 						['id' => 52545835,  'role' => 'SFM Animation'],
@@ -137,7 +137,8 @@
 					echo output_credits($users);
 				?>
 			</div>
-			<a href="battleship.html" class="button" id="battleship"></a>
+			<a href="//mods.tf" class="button" id="modstf" target="_blank"></a>
+			<a href="easteregg.html" class="button" id="easteregg"></a>
 			<a href="//www.valvesoftware.com/" id="legal" target="_blank"></a>
 		</div>
 	</div>

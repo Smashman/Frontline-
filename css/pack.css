@@ -39,6 +39,13 @@ body {
 	background-image: url(../images/fl_webpage_assets_bg7.jpg);
 }
 
+/* Text */
+
+#pack {
+    top: 285px;
+    width: 757px;
+}
+
 /* Buttons */
 
 #download {
@@ -47,6 +54,13 @@ body {
 	height: 80px;
 	left: 175px;
 	top: 423px;
+}
+#back {
+	background-image: url(../images/fl_webpage_assets_button_back.jpg);
+	width: 128px;
+	height: 64px;
+	left: 40px;
+	top: 53px;
 }
 
 /* Models and Particles */

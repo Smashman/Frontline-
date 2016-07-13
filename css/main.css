@@ -151,12 +151,19 @@
 	left: 604px;
 	top: 922px;
 }
-#battleship {
-	background-image: url(../images/fl_webpage_final_button_battleship.jpg);
+#easteregg {
+	background-image: url(../images/fl_webpage_final_button_easteregg.jpg);
 	width: 220px;
 	height: 184px;
 	top: 944px;
     right: -176px;
+}
+#modstf {
+	background-image: url(../images/fl_webpage_final_button_modstf.jpg);
+	width: 150px;
+	height: 45px;
+    bottom: 825px;
+    left: 370px;
 }
 
 /* Credits */
