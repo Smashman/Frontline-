@@ -44,7 +44,7 @@
 			</div>
 			<a href="#" class="button" id="dl1"></a>
 			<a href="#" class="button" id="dl2"></a>
-			<a href="//steamcommunity.com/workshop/browse/?appid=440" class="button" id="collection" target="_blank"></a>
+			<a href="//steamcommunity.com/sharedfiles/filedetails/?id=724260069" class="button" id="collection" target="_blank"></a>
 		</div>
 	</div>
 	<div class="container" id="container_5">

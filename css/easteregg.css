@@ -1,0 +1,44 @@
+.content {
+	width:1440px;
+}
+#container_1, #content_1 {
+	height: 1525px;
+	background-image: url(../images/fl_easter_webpage_bg1.jpg);
+}
+
+/* Buttons */
+
+#back {
+	background-image: url(../images/fl_easter_button_back.jpg);
+	width: 152px;
+	height: 70px;
+	left: -2px;
+	top: 132px;
+}
+#wallpapers {
+	background-image: url(../images/fl_easter_button_wallpapers.jpg);
+	width: 400px;
+	height: 66px;
+	right:-4px;
+	top: 140px;
+}
+#meme, #game, #beep {
+	height: 225px;
+	opacity: 0.5;
+	top: 1010px;
+}
+#meme {
+	background-image: url(../images/fl_easter_button_meme.jpg);
+	width: 245px;
+	right: 635px;
+}
+#game {
+	background-image: url(../images/fl_easter_button_game.jpg);
+	width: 250px;
+	right: 355px;
+}
+#beep {
+	background-image: url(../images/fl_easter_button_beep.jpg);
+	width: 255px;
+	right: 70px;
+}
