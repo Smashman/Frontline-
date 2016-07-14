@@ -10,7 +10,7 @@ $(function(){
 	shade = $("#shade");
 	shade.click(function(){shade.fadeOut(200)});
 	zooming = shade.find("img")[0];
-	$(".imgholder").click(function(ev){
+	$(".asset.model .imgholder").click(function(ev){
 		console.log(ev);
 		ev.stopPropagation();
 		zoomAsset(ev.currentTarget);
