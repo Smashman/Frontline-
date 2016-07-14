@@ -69,9 +69,9 @@
 				<span class="italic">We'll see you on the <span class="emph">Frontline!</span></span>
 			</div>
 			<a href="//steamcommunity.com/groups/FrontlineProject" class="button" id="steam" target="_blank"></a>
-			<a href="//tf2maps.net/forums/" class="button" id="tf2m" target="_blank"></a>
-			<a href="//facepunch.com/forumdisplay.php?f=277" class="button" id="facepunch" target="_blank"></a>
-			<a href="//polycount.com/categories/team-fortress-2" class="button" id="polycount" target="_blank"></a>
+			<a href="//tf2maps.net/threads/the-frontline-community-project.28651/" class="button" id="tf2m" target="_blank"></a>
+			<a href="//facepunch.com/showthread.php?t=1526899" class="button" id="facepunch" target="_blank"></a>
+			<a href="//polycount.com/discussion/173491/frontline-a-war-themed-community-project/" class="button" id="polycount" target="_blank"></a>
 		</div>
 	</div>
 	<div class="container" id="container_6">
