@@ -18,7 +18,7 @@
 				<br/><br/>
 				<span class="emph">Frontline!</span> is a community-created war effort that aims to rally the troops of the TF2 contributing community and show everyone what they're capable of. Whatever art of war you partake in, we want you to join. Now slap on your helmet and grab your rifle, as we invite you into the midst of all-out war!
 			</div>
-			<iframe class="video" src="http://www.youtube.com/embed/vCFVlVJWBak?showinfo=0&amp;vq=hd720&amp;rel=0&amp;autohide=1" frameborder="0" allowfullscreen=""></iframe>
+			<iframe class="video" src="http://www.youtube.com/embed/aEe70XveO4A?showinfo=0&amp;vq=hd720&amp;rel=0&amp;autohide=1" frameborder="0" allowfullscreen=""></iframe>
 		</div>
 	</div>
 	<div class="container" id="container_3">
