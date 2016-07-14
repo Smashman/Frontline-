@@ -9,6 +9,9 @@ body {
 	line-height: 16px;
 	min-width: 890px;
 }
+* {
+	box-sizing: border-box;
+}
 a {
 	font-weight: bold;
 	color: #e5e5e5;
