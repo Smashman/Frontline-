@@ -4,6 +4,10 @@
 <link rel="stylesheet" type="text/css" media="screen" href="css/common.css">
 <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
 <meta charset="UTF-8">
+<meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
+<meta property="og:title"              content="Frontline!" />
+<meta property="og:description"        content="Frontline! Is a TF2 community project with the theme of “20th Century Warfare” such as WW1 / WW2" />
+<meta property="og:image"              content="http://frontline.tf/images/fl_button_bg.png" />
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
