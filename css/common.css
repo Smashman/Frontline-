@@ -9,9 +9,6 @@ body {
 	line-height: 16px;
 	min-width: 890px;
 }
-* {
-	box-sizing: border-box;
-}
 a {
 	font-weight: bold;
 	color: #e5e5e5;
@@ -59,9 +56,6 @@ a:hover {
 .video {
     width: 854px;
     height: 480px;
-    left: 19px;
-    top: 423px;
-    position: absolute;
 }
 #legal {
 	position: absolute;

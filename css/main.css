@@ -35,6 +35,12 @@
 	background-image: url(../images/fl_webpage_main_bg7.jpg);
 }
 
+.video {
+	left: 19px;
+    top: 423px;
+    position: absolute;
+}
+
 /* Text positioning */
 
 #welcome {

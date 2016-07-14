@@ -76,8 +76,8 @@ body {
 #models_1 {
 	top: 70px;
 }
-#models_3 {
-	
+#particles {
+	top: 90px;
 }
 .asset {
 	width: 375px;
@@ -92,16 +92,31 @@ body {
 	margin-bottom: 0;
 }
 .imgholder {
+	box-sizing: border-box;
 	width: 75px;
 	height: 75px;
 	background: rgba(0,0,0,0.5);
 	float: left;
 	margin-right: 8px;
 	padding: 5px;
+	position: relative;
 }
-.js-enabled .imgholder:hover {
+.js-enabled .asset.model .imgholder:hover {
 	background-image: url(../images/fl_assets_expand.png);
 	cursor: pointer;
+}
+.asset.particle .imgholder::before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: url(../images/fl_assets_play.png);
+	display: none;
+}
+.asset.particle .imgholder:hover::before {
+	display: block;
 }
 .imgholder > img {
 	width: 100%;
@@ -134,11 +149,15 @@ body {
     bottom: 0;
     display: none;
 }
+#shade.particle #zoomholder {
+    width: 854px;
+    height: 480px;
+}
 #zoomholder {
 	position: fixed;
     background: #d8d2cf;
-    width: 780px;
-    height: 780px;
+    width: 768px;
+    height: 768px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
