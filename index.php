@@ -52,8 +52,8 @@
 				<br/><br/>
 				That's right, <span class="italic">this war ain't over yet</span>.
 			</div>
-			<a href="#" class="button" id="dl1"></a>
-			<a href="#" class="button" id="dl2"></a>
+			<a href="downloads/Frontline_Supply_Drop_v1.0.zip" class="button" id="dl1"></a>
+			<a href="downloads/FrontlineThumb_v1.0.zip" class="button" id="dl2"></a>
 			<a href="//steamcommunity.com/sharedfiles/filedetails/?id=724260069" class="button" id="collection" target="_blank"></a>
 		</div>
 	</div>
@@ -68,7 +68,7 @@
 				<br/><br/>
 				<span class="italic">We'll see you on the <span class="emph">Frontline!</span></span>
 			</div>
-			<a href="//steamcommunity.com/workshop/browse/?appid=440" class="button" id="steam" target="_blank"></a>
+			<a href="//steamcommunity.com/groups/FrontlineProject" class="button" id="steam" target="_blank"></a>
 			<a href="//tf2maps.net/forums/" class="button" id="tf2m" target="_blank"></a>
 			<a href="//facepunch.com/forumdisplay.php?f=277" class="button" id="facepunch" target="_blank"></a>
 			<a href="//polycount.com/categories/team-fortress-2" class="button" id="polycount" target="_blank"></a>
