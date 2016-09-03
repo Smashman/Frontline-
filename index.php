@@ -110,7 +110,7 @@
 				<div class="answer">A. Of course, it's not a matter of one or the other! We are well aware of the other active projects in the community, and welcome them fully! From our perspective, it's a matter of co-existence, <span class="emph">not</span> competition.</div>
 			</div>
 			<div class="text" id="more">
-				Stop by one of our threads on Facepunch, Polycount, TF2Maps, or hop in the Steam Group, and ask away.
+				Stop by one of our threads on Facepunch, Polycount, TF2Maps, or hop in the Steam Group, and ask away. We can also be reached at <a href="mailto:team@frontline.tf">team@frontline.tf</a>.
 				<br/><br/>
 				We will do our best to answer any questions you have as soon as possible.
 			</div>
