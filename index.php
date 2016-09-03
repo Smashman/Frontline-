@@ -23,6 +23,7 @@
 	<div class="container" id="container_1">
 		<div class="content" id="content_1">
 			<a class="button" id="tf" href="//teamfortress.com" target="_blank"></a>
+			<a class="button" id="update" href="pack.html"></a>
 		</div>
 	</div>
 	<div class="container" id="container_2">
@@ -56,8 +57,8 @@
 				<br/><br/>
 				That's right, <span class="italic">this war ain't over yet</span>.
 			</div>
-			<a href="downloads/Frontline_Supply_Drop_v1.0.zip" class="button" id="dl1"></a>
-			<a href="downloads/FrontlineThumb_v1.0.zip" class="button" id="dl2"></a>
+			<a href="downloads/Frontline_Supply_Drop_v1.1.zip" class="button" id="dl1"></a>
+			<a href="downloads/FrontlineThumb_v1.1.zip" class="button" id="dl2"></a>
 			<a href="//steamcommunity.com/sharedfiles/filedetails/?id=724260069" class="button" id="collection" target="_blank"></a>
 		</div>
 	</div>

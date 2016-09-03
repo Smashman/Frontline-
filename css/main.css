@@ -101,6 +101,13 @@
 	left: 155px;
 	top: 55px;
 }
+#update {
+	background-image: url(../images/fl_webpage_final_button_update.jpg);
+	width: 202px;
+	height: 61px;
+	right: 17px;
+	top: 30px;
+}
 #pack {
 	background-image: url(../images/fl_webpage_final_button_pack.jpg);
 	width:275px;
