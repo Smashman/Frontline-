@@ -7,7 +7,7 @@ function get_credit_data($users_list) {
 	$user_id_list = array_map("return_id", $users_list);
 	include 'config.php';
 	$conn = new mysqli($db_host, $db_username, $db_password, $db_name);
-	mysqli_set_charset($conn, 'utf8');
+	mysqli_set_charset($conn, 'utf8mb4');
 	$query = "SELECT * from users where account_id in (";
 	$length = count($user_id_list);
 	for ($i=0; $i < $length; ++$i) {
