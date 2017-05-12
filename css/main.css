@@ -17,7 +17,7 @@
 
 #container_4, #content_4 {
 	height: 1570px;
-	background-image: url(../images/fl_webpage_main_bg4.jpg);
+	background-image: url(../images/fl_webpage_main_bg4_v12.jpg);
 }
 
 #container_5, #content_5 {
@@ -102,7 +102,7 @@
 	top: 55px;
 }
 #update {
-	background-image: url(../images/fl_webpage_final_button_update.png);
+	background-image: url(../images/fl_webpage_final_button_update_v12.png);
 	width: 222px;
 	height: 61px;
 	right: 17px;
