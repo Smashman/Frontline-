@@ -57,7 +57,7 @@
 				<br/><br/>
 				That's right, <span class="italic">this war ain't over yet</span>.
 			</div>
-			<a href="downloads/Frontline_Supply_Drop_v1.2.zip" class="button" id="dl1"></a>
+			<a href="downloads/Frontline_Supply_Drop_v1.3.zip" class="button" id="dl1"></a>
 			<a href="downloads/FrontlineThumb_v1.1.zip" class="button" id="dl2"></a>
 			<a href="//steamcommunity.com/sharedfiles/filedetails/?id=724260069" class="button" id="collection" target="_blank"></a>
 		</div>
